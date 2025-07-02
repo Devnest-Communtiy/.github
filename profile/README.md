@@ -1,21 +1,22 @@
-# 🪺 DevNest
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Community-Developers-blue?style=for-the-badge&logo=github" alt="Developer Community">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Active">
-  <img src="https://img.shields.io/badge/Join%20Us-Welcome-orange?style=for-the-badge" alt="Join Us">
+  
+<h1 style="font-family: system-ui, -apple-system, sans-serif; font-size: 2rem; font-weight: bold; color: white; margin: 0;">dev<span style="color: #16a34a;">nest</span><span style="color: #22c55e; font-size: 2.5rem;">.</span></h1>
+
+  <img src="https://img.shields.io/badge/Community-Developers-2ea043?style=for-the-badge&logo=github" alt="Developer Community">
+  <img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge" alt="Active">
+  <img src="https://img.shields.io/badge/Join%20Us-Welcome-ffffff?style=for-the-badge&color=black" alt="Join Us">
 </div>
 
 <div align="center">
-  <h3>🚀 Where Coders Connect, Learn, and Grow Together</h3>
+  <h3>Where Coders Connect, Learn, and Grow Together</h3>
   <p><em>Building the future, one line of code at a time</em></p>
-</div>
+</div></div>
 
 ---
 
-## 🌟 About DevNest
+## About devnest
 
-Welcome to **DevNest** - a thriving community where passionate developers come together to share knowledge, collaborate on projects, and push the boundaries of technology. Whether you're a seasoned programmer or just starting your coding journey, DevNest is your home for growth and innovation.
+Welcome to **devnest** - a thriving community where passionate developers come together to share knowledge, collaborate on projects, and push the boundaries of technology. Whether you're a seasoned programmer or just starting your coding journey, devnest is your home for growth and innovation.
 
 ## 🎯 What We Do
 
@@ -77,16 +78,16 @@ Ready to spread your wings? We're excited to have you as part of the DevNest com
 
 <div align="center">
   <a href="https://dev-nest.tech">
-    <img src="https://img.shields.io/badge/Visit%20Our%20Website-dev--nest.tech-blue?style=for-the-badge&logo=globe" alt="Visit Website">
+    <img src="https://img.shields.io/badge/Visit%20Our%20Website-dev--nest.tech-00ff88?style=for-the-badge&logo=globe&logoColor=black&labelColor=black" alt="Visit Website">
   </a>
   <a href="mailto:admin@dev-nest.tech">
-    <img src="https://img.shields.io/badge/Contact%20Us-admin%40dev--nest.tech-red?style=for-the-badge&logo=gmail" alt="Contact Us">
+    <img src="https://img.shields.io/badge/Contact%20Us-admin%40dev--nest.tech-ffffff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black" alt="Contact Us">
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <p><strong>Made with ❤️ by the DevNest Community</strong></p>
+  <p><strong>Made with ❤️ by the devnest community</strong></p>
   <p><em>"Code is poetry written in logic"</em></p>
 </div>
