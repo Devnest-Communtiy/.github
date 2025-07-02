@@ -1,7 +1,7 @@
 <div align="center">
   
 <h1 style="font-family: system-ui, -apple-system, sans-serif; font-size: 2rem; font-weight: bold; color: white; margin: 0;">
-  <img src="https://dev-nest.tech/favicon.ico" style="height:150px;width : 200px "/>
+  <img src="../4F67A4B7-C339-4F12-A415-945738CFE5E8_1_201_a-removebg-preview.png" style="height:200px;width : 200px "/>
 </h1>
 
   <img src="https://img.shields.io/badge/Community-Developers-2ea043?style=for-the-badge&logo=github" alt="Developer Community">
