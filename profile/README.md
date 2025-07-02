@@ -1,6 +1,8 @@
 <div align="center">
   
-<h1 style="font-family: system-ui, -apple-system, sans-serif; font-size: 2rem; font-weight: bold; color: white; margin: 0;">dev<span style="color: #16a34a;">nest</span><span style="color: #22c55e; font-size: 2.5rem;">.</span></h1>
+<h1 style="font-family: system-ui, -apple-system, sans-serif; font-size: 2rem; font-weight: bold; color: white; margin: 0;">
+  <img src="https://dev-nest.tech/favicon.ico" style="height:150px;width : 200px "/>
+</h1>
 
   <img src="https://img.shields.io/badge/Community-Developers-2ea043?style=for-the-badge&logo=github" alt="Developer Community">
   <img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge" alt="Active">
